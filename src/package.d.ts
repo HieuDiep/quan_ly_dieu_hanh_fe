@@ -1,0 +1,10 @@
+declare module "validation_t/src";
+declare module "@blowstack/ckeditor-nuxt";
+declare module "vuex-composition-helpers/dist";
+declare module "@ckeditor/ckeditor5-pagination/src/pagination";
+declare module "vue-signature-pad";
+declare module "vue2-datepicker";
+declare module "@/utils";
+declare module "@ckeditor/ckeditor5-core/src/plugin";
+declare module "ckeditor4-vue";
+declare module "v-click-outside";

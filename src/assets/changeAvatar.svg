@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2934" fill="#e39f25" stroke="#707070" d="M0 0H18V18H0z" transform="translate(-1084 37)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_2934-2" fill="#fff" stroke="#707070" d="M0 0H18V18H0z" transform="translate(-1084 37)"/>
+        </clipPath>
+        <style>
+            .cls-5{fill:#e39f25}.cls-7{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_20565" transform="translate(-208 -181) translate(1336 146)">
+        <g id="Group_12929">
+            <g id="Ellipse_800" fill="#e39f25" stroke="#fff" stroke-width="2px" transform="translate(-1126 37)">
+                <circle cx="16" cy="16" r="16" stroke="none"/>
+                <circle cx="16" cy="16" r="17" fill="none"/>
+            </g>
+            <g id="Mask_Group_166" clip-path="url(#clip-path)" transform="translate(-35 7)">
+                <g id="_010-upload" transform="translate(-1084 37.633)">
+                    <path id="Path_12627" d="M15.188 0H2.813A2.816 2.816 0 0 0 0 2.813v9.844a2.816 2.816 0 0 0 2.813 2.813h9.6a.7.7 0 0 0 0-1.406H9.82L8.2 11.965l5.123-6.516 3.449 3.812A.7.7 0 0 0 18 8.789V2.813A2.816 2.816 0 0 0 15.188 0zm1.406 6.964l-2.783-3.076a.7.7 0 0 0-1.074.037l-5.419 6.891L5.479 8.43a.7.7 0 0 0-.557-.274.7.7 0 0 0-.557.274l-1.548 2.012a.7.7 0 0 0 1.115.857l.991-1.288 3.122 4.051H2.813a1.408 1.408 0 0 1-1.406-1.406V2.813a1.408 1.408 0 0 1 1.406-1.407h12.375a1.408 1.408 0 0 1 1.406 1.406zm0 0" class="cls-5"/>
+                    <path id="Path_12628" d="M7.109 4.5a2.109 2.109 0 1 0 2.11 2.109A2.112 2.112 0 0 0 7.109 4.5zm0 2.813a.7.7 0 1 1 .7-.7.7.7 0 0 1-.7.7zm0 0" class="cls-5" transform="translate(-2.188 -1.969)"/>
+                    <path id="Path_12629" d="M26.122 18.525l-.006-.006a1.753 1.753 0 0 0-2.487 0l-1.357 1.339a.7.7 0 0 0 .988 1l.909-.9v3.946a.7.7 0 0 0 1.406 0v-3.923l.87.9a.7.7 0 1 0 1.01-.978zm0 0" class="cls-5" transform="translate(-9.652 -7.875)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_12928">
+            <g id="Mask_Group_166-2" clip-path="url(#clip-path-2)" transform="translate(-35 7)">
+                <g id="_010-upload-2" transform="translate(-1084 37.633)">
+                    <path id="Path_12627-2" d="M15.188 0H2.813A2.816 2.816 0 0 0 0 2.813v9.844a2.816 2.816 0 0 0 2.813 2.813h9.6a.7.7 0 0 0 0-1.406H9.82L8.2 11.965l5.123-6.516 3.449 3.812A.7.7 0 0 0 18 8.789V2.813A2.816 2.816 0 0 0 15.188 0zm1.406 6.964l-2.783-3.076a.7.7 0 0 0-1.074.037l-5.419 6.891L5.479 8.43a.7.7 0 0 0-.557-.274.7.7 0 0 0-.557.274l-1.548 2.012a.7.7 0 0 0 1.115.857l.991-1.288 3.122 4.051H2.813a1.408 1.408 0 0 1-1.406-1.406V2.813a1.408 1.408 0 0 1 1.406-1.407h12.375a1.408 1.408 0 0 1 1.406 1.406zm0 0" class="cls-7"/>
+                    <path id="Path_12628-2" d="M7.109 4.5a2.109 2.109 0 1 0 2.11 2.109A2.112 2.112 0 0 0 7.109 4.5zm0 2.813a.7.7 0 1 1 .7-.7.7.7 0 0 1-.7.7zm0 0" class="cls-7" transform="translate(-2.188 -1.969)"/>
+                    <path id="Path_12629-2" d="M26.122 18.525l-.006-.006a1.753 1.753 0 0 0-2.487 0l-1.357 1.339a.7.7 0 0 0 .988 1l.909-.9v3.946a.7.7 0 0 0 1.406 0v-3.923l.87.9a.7.7 0 1 0 1.01-.978zm0 0" class="cls-7" transform="translate(-9.652 -7.875)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
